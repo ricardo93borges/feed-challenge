@@ -1,0 +1,15 @@
+.post-card {
+  padding: 10px;
+}
+
+.post-card h2 a {
+  font-size: 0.8em;
+  text-decoration: none;
+  color: #000;
+}
+
+.post-card h2 a:hover {
+  font-size: 0.8em;
+  text-decoration: underline;
+  color: #000;
+}
